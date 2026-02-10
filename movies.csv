@@ -1,0 +1,7 @@
+username,movie_name,director,genre,rating,year,watched
+demo,Interstellar,Christopher Nolan,Sci-Fi,9,2014,Y
+demo,Spirited Away,Hayao Miyazaki,Animation,10,2001,Y
+demo,Inception,Christopher Nolan,Sci-Fi,9,2010,N
+alice,La La Land,Damien Chazelle,Musical,8,2016,Y
+alice,Parasite,Bong Joon-ho,Thriller,9,2019,Y
+alice,Avatar,James Cameron,Fantasy,8,2009,N
